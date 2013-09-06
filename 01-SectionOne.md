@@ -8,8 +8,9 @@
     - equal to its own weight? = neutrally buoyant
   
   2. Why is buoyancy control, both at the surface and underwater, one of the most important skills a diver can master?
-    - Float positively when you need to rest/save energy
-    - Neutral buoyancy lets you swim effortlessly
+    - You can control where you are at in the water
+      - Float positively when you need to rest/save energy
+      - Neutral buoyancy lets you swim effortlessly
 
   3. What two items control a divers buoyancy?
     - BCD
